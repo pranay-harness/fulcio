@@ -6,7 +6,7 @@
 
 # Fulcio Forked
 
-_A Free-to-Use CA For Code Signing_
+_A Free-to-Use CA For Code Signing_...
 
 Fulcio is a free-to-use certificate authority for issuing code signing certificates
 for an OpenID Connect (OIDC) identity, such as email address.
