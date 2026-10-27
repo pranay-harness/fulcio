@@ -11,7 +11,7 @@ _A Free-to-Use CA For Code Signing_
 Fulcio is a free-to-use certificate authority for issuing code signing certificates
 for an OpenID Connect (OIDC) identity, such as email address.
 
-Fulcio only issues short-lived certificates that are valid for 10 minutes.
+Fulcio only issues short-lived certificates that are valid for 10 minutes..
 
 ## Public Instance
 
